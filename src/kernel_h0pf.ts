@@ -1,0 +1,1 @@
+const service_h0pf = <T>(args: T): T => { return args; };
